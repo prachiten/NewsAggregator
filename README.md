@@ -9,3 +9,4 @@ NewsAggregator application allows to filter news based on keywords from five dif
 * All the search history of keywords and articles can be saved and viewed later
 
 ## Demo
+https://github.com/prachiten/NewsAggregator/blob/main/newsaggregatorshort.gif
