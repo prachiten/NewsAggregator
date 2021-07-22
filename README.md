@@ -6,5 +6,6 @@ NewsAggregator application allows to filter news based on keywords from five dif
 * Logged in user is allowed to save and delete his searched articles and keywords.
 * Implemented responsive-design with **jQuery** and the **Bootstrap** to enhance cross-platform user experience.
 * Created custom colors and stylings by using **CSS** in order to build a completely unique site that makes the project stand out visually.
+* All the search history of keywords and articles can be saved and viewed later
 
 ## Demo
